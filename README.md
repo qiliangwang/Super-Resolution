@@ -5,11 +5,11 @@
 
 项目结果：
 
-![](.\doc\img_01.png)
+![](./doc/img_01.png)
 
 训练过程展示
 
-![](.\doc\img_02.png)
-![](.\doc\img_03.png)
-![](.\doc\img_04.png)
-![](.\doc\img_05.png)
+![](./doc/img_02.png)
+![](./doc/img_03.png)
+![](./doc/img_04.png)
+![](./doc/img_05.png)
